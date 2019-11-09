@@ -1,0 +1,87 @@
+---
+intents:
+- tag: cumprimentar
+  patterns:
+  - Olá
+  - Oi
+  - Como vai?
+  - Tudo bem?
+  - Tudo ok
+  - Bom dia
+  - Boa tarde
+  - Boa noite
+  responses:
+  - Olá, tudo bem?
+  - Que bom ver você aqui.
+  - Oi
+  - Olá, posso te ajudar?
+  - Bom dia!
+  - Bom noite!
+  - Boa tarde!
+  context_set: ''
+- tag: despedida
+  patterns:
+  - Tchau
+  - Xau
+  - Adeus
+  - Até logo
+  - Falou
+  - Até mais
+  responses:
+  - Até logo e obrigada!
+  - Tenha um ótimo dia.
+  - Adeus! Volte sempre.
+  - Até mais. Foi bom te ajudar.
+- tag: agradecimentos
+  patterns:
+  - Grato
+  - Grata
+  - Obrigado
+  - Obrigada
+  - Parabéns
+  - Muito bom
+  - Ótimo
+  responses:
+  - Obrigada
+  - Disponha
+  - Estou a disposição
+- tag: horario
+  patterns:
+  - Que horas são?
+  - Que dia?
+  - Hoje é?
+  - Que horário?
+  responses:
+  - Vou checar
+- tag: precos
+  patterns:
+  - Como são calculados os preços?
+  - Preços
+  - Preço
+  - Dúvida sobre os preços
+  - Média ponderada
+  - Média
+  responses:
+  - Os preços dos produtos selecionados são uma média podenrada pelo total de vendas.
+  - Os preços são médias podenradas ajustadas para dados atípicos.
+  - Os preços ajustados não consideram dados aberrantes.
+  - A média de preços considera o total de vendas na ponderação.
+- tag: dados
+  patterns:
+  - Fonte dos dados?
+  - Disponibilidade de dados
+  - Dados
+  - Origem dos dados
+  - Fonte
+  responses:
+  - Nossos dados são oriundos da base de notas fiscais eletrônicas cadastradas junto à Secretaria de Estado da Fazenda.
+  - Usamos dados de notas fiscais eletrônicas disponibilizadas pela SEFAZ-PB.
+- tag: nfe
+  patterns:
+  - Notas fiscais?
+  - Tipos de notas
+  - Notas
+  - NFE
+  responses:
+  - Usamos notas fiscais eletrônicas ao consumidor e também emitidas para pessoas jurídicas.
+  - Os tipos de notas fiscais usadas são aquelas emitidas ao consumidor ou para pessoas jurídicas.
