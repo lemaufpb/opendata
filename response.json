@@ -1,0 +1,664 @@
+{
+ "resultado": [
+        {
+            "codGTIN": 7896445410503,
+            "descricao": "AGUA MINERAL INDAIA SEM GAS 5L",
+            "outrasDescricoes": [
+                "AGUA MINERAL INDAIA S GAS 5LT",
+                "AGUA MINERAL INDAIA 5LT",
+                "AGUA MINERAL INDAIA 5L"
+            ],
+            "codNCM": 22011000,
+            "escoreNCM": null,
+            "vendas": 9
+        },
+        {
+            "codGTIN": 7898918222064,
+            "descricao": "AGUA MINERAL SUBLIME 500ML",
+            "outrasDescricoes": [
+                "AGUA SUBLIME 500ML",
+                null,
+                null
+            ],
+            "codNCM": 22011000,
+            "escoreNCM": null,
+            "vendas": 8
+        },
+        {
+            "codGTIN": 7896445410343,
+            "descricao": "AGUA MINERAL CGAS GRF PET 12X500ML INDAIA",
+            "outrasDescricoes": [
+                "AG INDAIA CG 500ML AM",
+                "AGUA MINDAIA CGAS",
+                null
+            ],
+            "codNCM": 22011000,
+            "escoreNCM": null,
+            "vendas": 8
+        },
+        {
+            "codGTIN": 7898043425033,
+            "descricao": "AGUA MINERAL IDEAL SEM GAS 20L",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22011000,
+            "escoreNCM": null,
+            "vendas": 8
+        },
+        {
+            "codGTIN": 7896445410718,
+            "descricao": "AGUA MINERAL SGAS GRF PET 6X1,5L INDAIA",
+            "outrasDescricoes": [
+                "AGUA MIN SGAS INDAIA 6X1",
+                "AGUA MINDAIA",
+                null
+            ],
+            "codNCM": 22011000,
+            "escoreNCM": null,
+            "vendas": 7
+        },
+        {
+            "codGTIN": 7898279260064,
+            "descricao": "AGUA MINERAL PURIFIC 20L",
+            "outrasDescricoes": [
+                "AGUA PURIFIC 20L",
+                null,
+                null
+            ],
+            "codNCM": 22011000,
+            "escoreNCM": null,
+            "vendas": 7
+        },
+        {
+            "codGTIN": 7898222290049,
+            "descricao": "AGUA MINERAL CRYSTAL 500ML COM GAS",
+            "outrasDescricoes": [
+                "AGUA MINERAL CRISTAL CGAS 500ML",
+                "AGUA MIN CRYSTAL COM GAS 500ML",
+                null
+            ],
+            "codNCM": 22011000,
+            "escoreNCM": null,
+            "vendas": 6
+        },
+        {
+            "codGTIN": 7894900520507,
+            "descricao": "AGUA GASEIFIC CRYSTAL 510ML LIMAO",
+            "outrasDescricoes": [
+                "AGUA MINERAL CRYSTAL LIMAO 510ML",
+                "AGUA CRYSTAL SAB LIM",
+                "AGUA SABOR CRYSTAL L"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 5
+        },
+        {
+            "codGTIN": 78936683,
+            "descricao": "CERVEJA HEINEKEN 330ML LONG NECK",
+            "outrasDescricoes": [
+                "CERVEJA HEINEKEN LONG NECK 330ML",
+                "CERV LONG NECK HEINEKEN 330ML",
+                "CERVHEINEKEN LONG NECK 330ML"
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": 100.0,
+            "vendas": 43
+        },
+        {
+            "codGTIN": 7896045523412,
+            "descricao": "CERVEJA HEINEKEN LATA 350ML",
+            "outrasDescricoes": [
+                "CERVEJA HEINEKEN LT 350ML",
+                "CERVEJA HEINEKEN 350ML LT",
+                "CERVEJA HEINEKEN 350ML"
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 25
+        },
+        {
+            "codGTIN": 8712000025649,
+            "descricao": "CERV HEINEKEN 5L",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 12
+        },
+        {
+            "codGTIN": 78905498,
+            "descricao": "CERV HEINEKEN LAGER BEER LONG NECK 600ML",
+            "outrasDescricoes": [
+                "CERVEJA HEINEKEN DESC L NECK 600ML",
+                "CERV HEINEKEN LAGER PREM 600ML LN",
+                "CERVEJA HEINEKEN 600ML GF"
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 11
+        },
+        {
+            "codGTIN": 7896045505371,
+            "descricao": "CERVEJA HEINEKEN 330ML LONG NECK CX 6 UNID",
+            "outrasDescricoes": [
+                "CERVEJA HEINEKEN LN",
+                "HEINEKEN LN 330ML",
+                null
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 9
+        },
+        {
+            "codGTIN": 78904972,
+            "descricao": "HEINEKEN LONG NEKC 330ML",
+            "outrasDescricoes": [
+                "CERV HEINEKEN LN 355ML",
+                null,
+                null
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 2
+        },
+        {
+            "codGTIN": 78935495,
+            "descricao": "HEINEKEN SHOT",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 7896045503148,
+            "descricao": "HEINEKEN 600ML",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 7896045505869,
+            "descricao": "CERVEJA HEINEKEN LN 330ML",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22030000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+         {
+            "codGTIN": 7894900011517,
+            "descricao": "REFRIGERANTE COCA COLA 2L PET",
+            "outrasDescricoes": [
+                "REFRIGERANTE COCA COLA 2 LITROS",
+                "REFRIGERANTE COCA COLA 2L PET",
+                "REFRIGERANTE COCA COLA PET 2L"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 98.31,
+            "vendas": 455
+        },
+        {
+            "codGTIN": 78912939,
+            "descricao": "COCA COLA PET 250ML",
+            "outrasDescricoes": [
+                "REFRIGERANTE COCA COLA PET 250ML",
+                "REFRIGERANTE COCACOLA 250ML PET",
+                "REFRIG COCA COLA 250ML MINI PET"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 94.5,
+            "vendas": 217
+        },
+        {
+            "codGTIN": 7894900010015,
+            "descricao": "REFRIGERANTE COCA COLA LATA 350ML",
+            "outrasDescricoes": [
+                "REFRIGERANTE COCACOLA 350ML LATA",
+                "REFRIGERANTE COCACOLA LATA 350ML",
+                "REFRIGERANTE COCA COLA LT 350ML"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 95.28,
+            "vendas": 213
+        },
+        {
+            "codGTIN": 7894900011593,
+            "descricao": "REFRIGERANTE COCA COLA 2,5L PET",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA 2500ML PET",
+                "REFRIGERANTE COCA COLA 25LT",
+                "REFRIGCOCA COLA 2,5LT PET"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 97.44,
+            "vendas": 91
+        },
+        {
+            "codGTIN": 7894900010398,
+            "descricao": "REFRIGERANTE COCA COLA LATA 220ML",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA 220ML LATA SLEEK",
+                "REFRIG COCA COLA 220ML LT SLEEK",
+                "REFRIGER COCA COLA TRADICIONA"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 95.45,
+            "vendas": 84
+        },
+        {
+            "codGTIN": 7894900011715,
+            "descricao": "REFRIGERANTE COCA COLA PET 1L",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA PET 1 LT",
+                "REFRIG COCA COLA 1LT PET",
+                "REFRIG COCA COLA 1L PET"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 93.75,
+            "vendas": 80
+        },
+        {
+            "codGTIN": 7894900014211,
+            "descricao": "REFRIGERANTE COCA COLA RETORNAVEL 2L",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA RETORNAVEL PET 2L",
+                "REFRIG COCA COLA RETORNAVEL 2L PET",
+                "REFR COCA COLA PET RETORNAVEL 2LT"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 91.84,
+            "vendas": 77
+        },
+        {
+            "codGTIN": 7894900015119,
+            "descricao": "REFRIGERANTE COCA COLA GARRAFA PET 1L",
+            "outrasDescricoes": [
+                "REFRIGERANTE COCA COLA FANTA KUAT LS",
+                "REFRIGERANTE COCACOLA 1 L RETORNAVEL",
+                "REFRIGERANTE COCA COLA RETORNAVEL 1L"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 95.83,
+            "vendas": 63
+        },
+        {
+            "codGTIN": 7894900700015,
+            "descricao": "REFRIGERANTE COCA COLA ZERO 350ML",
+            "outrasDescricoes": [
+                "REFRIGERANTE COCACOLA 350ML ZERO LATA",
+                "REFRIGERANTE COCA COLA ZERO LT 350ML",
+                "REFRIG COCA COLA 350ML LATA ZERO"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 97.5,
+            "vendas": 59
+        },
+        {
+            "codGTIN": 7894900701517,
+            "descricao": "REFRIGERANTE COCA COLA ZERO 2L",
+            "outrasDescricoes": [
+                "REFRIGERANTE COCA COLA ZERO 2LT",
+                "REF PET COCACOLA ZERO 2 LITROS",
+                "REFRIG COCA COLA ZERO PET 2LT"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 100.0,
+            "vendas": 45
+        },
+        {
+            "codGTIN": 78909045,
+            "descricao": "REFRIGERANTE COCA COLA 250ML ZERO PET",
+            "outrasDescricoes": [
+                "REFRIGERANTE COCA COLA ZERO PET 250ML",
+                "REFRIGERANTE COCACOLA 250ML ZERO PET",
+                "REFRI COCA COLA ZERO MINI PET 250ML"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 93.1,
+            "vendas": 37
+        },
+        {
+            "codGTIN": 7894900013566,
+            "descricao": "REFRIGERANTE COCA COLA 500ML PET",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA PET 500ML",
+                "REFRI COCA COLA PET 500ML",
+                "REFRIG COCA COLA 500ML"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 85.0,
+            "vendas": 36
+        },
+        {
+            "codGTIN": 7894900010077,
+            "descricao": "REFRIG COCA COLA 350ML LT",
+            "outrasDescricoes": [
+                "REFRI COCA COLA 12X350ML",
+                "REF COCA COLA 350ML CX",
+                "REFRI COCA 350ML"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 30
+        },
+        {
+            "codGTIN": 7894900011708,
+            "descricao": "REFRIGERANTE COCA COLA 3L",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA 3L PET",
+                "REFRIG COCA COLA 3LTS",
+                "REFRIG COCA COLA 3L"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 100.0,
+            "vendas": 30
+        },
+        {
+            "codGTIN": 7894900038972,
+            "descricao": "KIT REFRIG COCA+FANTA LARANJA 2L PET",
+            "outrasDescricoes": [
+                "REFRIG COCA+FANTA LARANJA PET 2L",
+                "COCA COLA 2L + FANTA LARANJA 2L",
+                "KIT COCA COLA + FANTA LAR2L"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 100.0,
+            "vendas": 28
+        },
+        {
+            "codGTIN": 7894900025019,
+            "descricao": "REFRIGERANTE COCA COLA CAFE 220ML",
+            "outrasDescricoes": [
+                "REFRI COCA COLA CAFE ESPRESSO LATA 220ML",
+                "REFRI COCA COLA CAFE ESPRESSO LT 220ML",
+                "COCA COLA CAFE ESP COLOR SLEEK 220ML"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 100.0,
+            "vendas": 27
+        },
+        {
+            "codGTIN": 7894900700398,
+            "descricao": "REFRIGERANTE COCA COLA ZERO 220ML LATA",
+            "outrasDescricoes": [
+                "REFRI COCA COLA ZERO LATA 220ML",
+                "REFR COCA COLA ZERO LT12X220ML",
+                "REFRIG COCA COLA ZERO LT 220ML"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": 100.0,
+            "vendas": 23
+        },
+        {
+            "codGTIN": 7894900701715,
+            "descricao": "REFRIGERANTE COCA COLA 1L ZERO PET",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA 1L ZERO PET",
+                "REF COCA COLA ZERO 1LT PET",
+                "REFRIG COCACOLA ZERO 1L"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 16
+        },
+        {
+            "codGTIN": 7894900019926,
+            "descricao": "REFRI COCACOLA 2L",
+            "outrasDescricoes": [
+                "COCACOLA PET 2L",
+                "CC PET 2L",
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 11
+        },
+        {
+            "codGTIN": 7894900011753,
+            "descricao": "REFRIGERANTE COCA COLA 1,5L PET",
+            "outrasDescricoes": [
+                "REFRIG COCA COLA 15LT",
+                "COCA COLA 1,5 LITROS",
+                "REFR COCA COLA 1500M"
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 9
+        },
+        {
+            "codGTIN": 7894900014242,
+            "descricao": "COCA COLA REFPET SVASILHAME 2LT",
+            "outrasDescricoes": [
+                "CC REFPET 2L",
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 6
+        },
+        {
+            "codGTIN": 7894900018394,
+            "descricao": "REFCOCACOLA PET",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 5
+        },
+        {
+            "codGTIN": 27894900015113,
+            "descricao": "COCACOLA LS 1L",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 5
+        },
+        {
+            "codGTIN": 7894900093483,
+            "descricao": "REFRIG COCA+FANTA GUARANA PET 2L",
+            "outrasDescricoes": [
+                "KIT COCA COLA + FANTA GUAR2L",
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 4
+        },
+        {
+            "codGTIN": 7894900700077,
+            "descricao": "REFRIG COCA COLA SACUCAR 350ML",
+            "outrasDescricoes": [
+                "REFCOCACOLA ZERO",
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 4
+        },
+        {
+            "codGTIN": 7894900019841,
+            "descricao": "REFRIG COCA COLA 350ML",
+            "outrasDescricoes": [
+                "CC LATA COLOR",
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 3
+        },
+        {
+            "codGTIN": 7899970400254,
+            "descricao": "CHOCOLATE HERSHEYS PACOCA 11G",
+            "outrasDescricoes": [
+                "BOMBOM PACOCA 11G HERSHEYS",
+                null,
+                null
+            ],
+            "codNCM": 18063120,
+            "escoreNCM": null,
+            "vendas": 3
+        },
+        {
+            "codGTIN": 7909381517448,
+            "descricao": "021CC2762 SANDALIA COCA COLA WOODBOARD BRANCOBRANCO",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 64022000,
+            "escoreNCM": null,
+            "vendas": 2
+        },
+        {
+            "codGTIN": 7896371002087,
+            "descricao": "COCA COLA PET 250ML AM",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 2
+        },
+        {
+            "codGTIN": 7891350035094,
+            "descricao": "RISQUE CREM VERMELHO COCACOLA BL 8ML BOZZANO",
+            "outrasDescricoes": [
+                "ESMALTE RISQUE COLECAO 8ML VERM COCA COLA",
+                null,
+                null
+            ],
+            "codNCM": 33043000,
+            "escoreNCM": null,
+            "vendas": 2
+        },
+        {
+            "codGTIN": 7890018982855,
+            "descricao": "COCACOLA PET 2L C",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 7894900011807,
+            "descricao": "COCACOLA PET 1,5L",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 27894900025013,
+            "descricao": "REF COCA COLA CAFE ESP 220ML",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 7890162871029,
+            "descricao": "020CC2712 SANDALIA COCA COLA HAWAII 3D PRETOPRET",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 64022000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 7891293900008,
+            "descricao": "REFRIG COCA COLA 250ML PET",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 7894900010244,
+            "descricao": "REFCOCACOLA LATA PCT 1 X 12 350ML",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 789490001421,
+            "descricao": "REF COCA COLA RETORNAVEL 2L CRETOR",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 22021000,
+            "escoreNCM": null,
+            "vendas": 1
+        },
+        {
+            "codGTIN": 7891350035063,
+            "descricao": "ESM RISQUE FORMULA COCA COLA 8ML",
+            "outrasDescricoes": [
+                null,
+                null,
+                null
+            ],
+            "codNCM": 33043000,
+            "escoreNCM": null,
+            "vendas": 1
+        }
+    ]
+}
